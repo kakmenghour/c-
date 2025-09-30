@@ -20,6 +20,7 @@ main()
    std ::cout << allLand2 << '\n';
    std ::cout << fullLand << '\n';
    std ::cout << allLand << '\n';
+   
 
    return 0;
 }
