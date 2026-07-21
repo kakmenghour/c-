@@ -20,7 +20,8 @@ main()
    std ::cout << allLand2 << '\n';
    std ::cout << fullLand << '\n';
    std ::cout << allLand << '\n';
-   
+   std ::cout << x1 * x2 *  x3 << '\n';
+
 
    return 0;
 }
